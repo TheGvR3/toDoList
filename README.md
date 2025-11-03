@@ -34,3 +34,5 @@ Piccola applicazione web per gestire una lista di attività.
 Per salvare le attività nel browser si può estendere [`addTask`](script.js) e aggiungere funzioni di salvataggio/caricamento con `localStorage`.
 
 ---
+
+TEST: https://thegvr3.github.io/toDoList/
